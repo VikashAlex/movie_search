@@ -20,7 +20,7 @@ This is a fully responsive Movie Search App created using **HTML**, **CSS**, **B
 - Start searching your favorite movies!
 
 ## Demo
-[Add your live demo link here if available]
+https://vikashalex.github.io/movie_search/
 
 ---
 
